@@ -13,5 +13,5 @@ Create file dashboard.py
 
 ## Run steamlit app
 ```
-python -m streamlit run DASHBOARD/dashboard.py
+streamlit run dashboard/dashboard.py
 ```
